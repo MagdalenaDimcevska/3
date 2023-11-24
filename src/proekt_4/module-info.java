@@ -1,0 +1,3 @@
+
+module proekt_4 {
+}
